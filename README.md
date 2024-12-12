@@ -15,6 +15,7 @@
 </div>
 
 ###
+<h2> Technical Skill </h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -49,6 +50,7 @@
 </div>
 
 ###
+<h2> Find me Online </h2>
 
 <div align="left">
   <a href="https://www.instagram.com/a_pocalyps_e/" target="_blank">
@@ -69,6 +71,13 @@
   <a href="https://medium.com/@timsinabishal232" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
   </a>
+</div>
+
+###
+
+<h2> Profile Visit Count</h2>
+<div align="left">  
+  <img src="https://profile-counter.glitch.me/bishal784411/count.svg?"  />
 </div>
 
 ###
