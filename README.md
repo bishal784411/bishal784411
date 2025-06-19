@@ -64,7 +64,7 @@
   </a>
   <a href="https://github.com/bishal784411/bishal784411/releases" target="_blank">
     <img src="https://github.com/bishal784411/bishal784411/releases" width="47" height="35" alt="twitter logo"  />
-  </a>
+  </a> 
   <a href="https://github.com/bishal784411/bishal784411/releases" target="_blank">
     <img src="https://github.com/bishal784411/bishal784411/releases" width="47" height="35" alt="facebook logo"  />
   </a>
